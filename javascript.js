@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         <li><strong>Motor:</strong> 5.5L V8 naturalmente aspirado (LT6)</li>
                         <li><strong>Potência:</strong> 874 cv (670 hp) a 8.400 rpm</li>
                         <li><strong>Torque:</strong> 623 Nm a 6.300 rpm</li>
-                        <li><strong>Aceleração (0-100 km/h):</strong> Cerca de 2.6 segundos</li>
+                        <li><strong>Aceleração (0-100 km/h):</strong>  2.6 segundos</li>
                         <li><strong>Velocidade máxima:</strong> Aproximadamente 335 km/h</li>
                     </ul>
                 `;
